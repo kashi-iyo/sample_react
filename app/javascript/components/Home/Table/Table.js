@@ -16,7 +16,7 @@ class Table extends Component {
       <div className="pt-5 pb-5">
         <div className="container">
           <div className="text-center">
-            <h2 className="pt-4 pb-4">React for rails developers</h2>
+            <h2 className="pt-4 pb-4">コンテンツ</h2>
           </div>
          {items}
         </div>

@@ -5,13 +5,13 @@ const Content = styled.div`
   background: #ffd700;
   height: 100px;
   width: 100%;
-  font-size: 40px;
+  font-size: 20px;
 `
 
 const Thumbnail = () => {
   return(
     <div className="pt-4">
-      <Content>aa</Content>
+      <Content>サムネ</Content>
     </div>
   )
 }

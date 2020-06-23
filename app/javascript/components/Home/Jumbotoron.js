@@ -24,7 +24,7 @@ const Content = styled.div`
   background: #ffd700;
   height: 200px;
   width: 400px;
-  font-size: 40px;
+  font-size: 30px;
 `
 
 const Button = styled.a`
@@ -55,7 +55,7 @@ const Jumbotoron = () => {
           </div>
           <div className="col col-sm-12 col-md-5">
             <div className="pt-4 mt-4 text-center">
-              <Content>aa</Content>
+              <Content>サムネ</Content>
             </div>
           </div>
         </div>
